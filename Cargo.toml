@@ -1,0 +1,11 @@
+[package]
+name = "fast-is-blank"
+version = "0.1.0"
+authors = ["Pablo Klijnjan <pklijnjan@twistbioscience.com>"]
+
+[dependencies]
+pyo3 = "0.2"
+
+[lib]
+name = "fast_is_blank"
+crate-type = ["cdylib"]

@@ -1,0 +1,11 @@
+
+/target
+**/*.rs.bk
+
+tests/fixture_*.txt
+
+.envrc
+build/
+dist/
+is_blank.egg-info/
+__pycache__
