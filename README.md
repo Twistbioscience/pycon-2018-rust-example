@@ -1,6 +1,6 @@
 # Example of creating a Rust module to be used from Python
 
-This is based on the example from this [example](https://github.com/PyO3/pyo3/tree/master/examples/word-count) in the PyO3 repo 
+This is based on this [example](https://github.com/PyO3/pyo3/tree/master/examples/word-count) from the PyO3 repo 
 
 Requires Python 3.6+ and Rust nightly
 
